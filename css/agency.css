@@ -719,6 +719,12 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    color: white;
+
+    background-color: #222;
+    background-image: url(../img/map-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 footer span.copyright {
@@ -848,6 +854,7 @@ ul.social-buttons li a:active {
     text-shadow: none;
     background: #fed136;
 }
+
 
 img::selection {
     background: 0 0;
